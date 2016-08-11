@@ -1,6 +1,6 @@
 Our application, RipeType, allows users to distinguish between ripe and unripe fruits.
 Through RipeType’s in-app camera, users take a picture of a fruit, and the app pulls the photograph up on the screen, where the user taps it three times in different areas on the fruit.
-The application analyses the pixel data and concludes whether a fruit is ripe, unripe, or overripe. 
+The application analyzes the pixel data and concludes whether a fruit is ripe, unripe, or overripe. 
 The app’s primary functions were programmed in Java through Android Studio, and the formatting was done in XML.
 To develop this app, we utilized a combination of variables, classes, functions, and conditionals. We had to store the red, green, and blue values of each pixel in separate variables to differentiate between the superimposition of the additive primary colors.
 We programmed public classes and protected voids to insert our camera, direct the buttons, and code the if and else statements for each stage of the fruit. 
