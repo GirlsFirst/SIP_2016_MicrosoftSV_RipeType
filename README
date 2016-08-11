@@ -1,0 +1,14 @@
+Our application, RipeType, allows users to distinguish between ripe and unripe fruits.
+Through RipeType’s in-app camera, users take a picture of a fruit, and the app pulls the photograph up on the screen, where the user taps it three times in different areas on the fruit.
+The application analyses the pixel data and concludes whether a fruit is ripe, unripe, or overripe. 
+The app’s primary functions were programmed in Java through Android Studio, and the formatting was done in XML.
+To develop this app, we utilized a combination of variables, classes, functions, and conditionals. We had to store the red, green, and blue values of each pixel in separate variables to differentiate between the superimposition of the additive primary colors.
+We programmed public classes and protected voids to insert our camera, direct the buttons, and code the if and else statements for each stage of the fruit. 
+To design the widgets and buttons on our app, we had to format it using an extensible markup language. 
+Color vision discrepancy is a pigment deficiency that prohibits individuals from differentiating blue from yellow, or red and green or inability to see color. 
+It is imperative we acknowledge and help solve the problems of the color blind community especially when one in 12 men have a type of color blindness. 
+In the coming months, we want to have the app not only analyze whether the fruit is ripe or not, but can also predict the time until the fruit will be ripe.
+We’d also like to improve the User Interface of the app, adding fun fruit facts and making a cleaner design. 
+To use the app, click on the button of which fruit you want to check, and then click on the picture to see if the fruit is ripe.
+The emulator does not allow you to access the camera yet, so right now a photo is uploaded. 
+With RipeType, no color blind person will eat an unripe banana again!
